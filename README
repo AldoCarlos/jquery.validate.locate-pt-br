@@ -1,0 +1,15 @@
+Translated default messages and numeric formats validators for the jQuery validation plugin to pt-br
+@version: v1.0.0
+@author: Aldo Junior Carlos
+
+#Usage:
+Just include the plugin after jQuery validate plugin:
+<head>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script src="../jquery.validate.js" type="text/javascript"></script>
+
+    <script src="../jquery.validate.locate-pt-br.js" type="text/javascript"></script>
+</head>
+<body>
+...
+</body>
